@@ -5,4 +5,5 @@
 
 ## Group 1
 
-* [JavaScript](group-1/javascript.md)
+* [Chspyrt 1](group-1/chspyrt-1/README.md)
+  * [JavaScript](group-1/chspyrt-1/javascript.md)
